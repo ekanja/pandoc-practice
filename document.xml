@@ -1,0 +1,68 @@
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="руководство-пользователя">
+  <title>Руководство пользователя</title>
+  <section xml:id="назначение-программы">
+    <title>Назначение программы</title>
+    <para>
+      Программа предназначена для учёта успеваемости студентов.
+    </para>
+  </section>
+  <section xml:id="основные-функции">
+    <title>Основные функции</title>
+    <itemizedlist spacing="compact">
+      <listitem>
+        <para>
+          Добавление студента.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Редактирование данных студента.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Удаление студента.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Просмотр списка студентов.
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section xml:id="порядок-работы">
+    <title>Порядок работы</title>
+    <orderedlist numeration="arabic" spacing="compact">
+      <listitem>
+        <para>
+          Запустите программу.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Выберите нужную операцию.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Введите данные.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Сохраните результат.
+        </para>
+      </listitem>
+    </orderedlist>
+    <para>
+      <emphasis role="strong">Важно:</emphasis> перед удалением записи
+      убедитесь, что она больше не нужна.
+    </para>
+    <para>
+      Дополнительная информация:
+      <link xlink:href="https://pandoc.org">официальный сайт
+      pandoc</link>.
+    </para>
+  </section>
+</section>
